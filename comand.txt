@@ -1,0 +1,3 @@
+#associar um nó ao gerenciador
+docker swarm join --token SWMTKN-1-54ahqqmze354p6te734nsr1h4g65w1s29n5k91va4j3w0n5d42-5mkaqxyhl6pqdb1hu7ume1iiy 192.168.99.100:2377
+
